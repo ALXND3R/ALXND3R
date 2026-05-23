@@ -23,7 +23,7 @@
 ###  About Me
 -  Software Engineering student 
 -  Interested in software development, AI, and web technologies  
--  Building projects like **Balnex**  
+-  I enjoy creating software as a hobby, including projects like Balnex and CamPOV. 
 -  Always learning new technologies  
 - Turning ideas into real projects  
 
